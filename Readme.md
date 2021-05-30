@@ -57,9 +57,9 @@ OR
 ------------------
 * ->__Your Bot Token From [@BotFather](http://www.telegram.dog/BotFather)__
 
-* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)__
+* ->__Your APP ID And API Harsh From [Telegram](http://www.my.telegram.org) or [@hsk_the_editor](https://t.me/hsk_the_editor)__
 
-* ->__Your User Session String Obtained From [@PyrogramStringBot](http://www.telegram.dog/PyrogramStringBot)__
+* ->__Your User Session String Obtained From [@hsk_the_editor](http://www.telegram.dog/PyrogramStringBot)__
 
 * ->__Mongo DB URL Obtained From [Mongo DB](http://www.mongodb.com)__
 
@@ -68,7 +68,7 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -92,7 +92,7 @@ python3 -m bot
 </details>
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/CrazyBotszGrp) For Support/Assistance And Our [Channel](https://www.telegram.dog/CrazyBotsz) For Updates.   
+Join Our [Telegram Group](https://t.me/hsk_the_editor) For Support/Assistance And Our [Channel](https://t.me/hsk_the_editor) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
