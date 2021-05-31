@@ -8,7 +8,7 @@
         "Mongo DB"
     ],
     "website": "https://github.com/AlbertEinsteinTG",
-    "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
+    "repository": "https://github.com/EDIT2021/Adv-Auto-Filter-Bot-V2.git",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
         "APP_ID": {
